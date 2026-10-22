@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Spray Foam Insulation Cost Register (US, 2026)"
+type: dataset
+authors:
+  - name: "Spray Foam Guide"
+    website: "https://sprayfoamguide.com"
+version: "2026-10-21"
+date-released: "2026-10-21"
+license: CC-BY-4.0
+url: "https://sprayfoamguide.com"
+keywords: ["spray foam insulation cost", "closed cell spray foam", "open cell spray foam", "board foot", "price register"]
+doi: "10.5281/zenodo.23550678"
